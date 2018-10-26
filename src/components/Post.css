@@ -1,0 +1,42 @@
+.postContainer {
+  width: 100%;
+  background: #fff;
+  border: 1px solid #e0e0e0;
+  box-shadow: 0 3px 20px 0 rgba(0,0,0,.23);
+  margin-top: 10px;
+}
+.profileImage {
+  height: 30px;
+  margin-right: 10px;
+}
+.profileSection {
+  display: flex;
+  padding: 10px;
+}
+.wallImage {
+  width: 100%;
+}
+.wallSection {
+  padding: 10px;
+}
+.actionBlock {
+  padding: 0 10px;
+}
+.actionBtn {
+  color: #1b6192;
+  font-family: verdana;
+  font-size: 15px;
+  padding-right: 15px;
+  text-decoration: none;
+}
+.likeBlock {
+  padding: 10px;
+}
+.commentSection {
+  padding: 10px;
+  display: flex;
+}
+.comment {
+  width: 100%;
+  border: 1px solid #f2f2f2;
+}

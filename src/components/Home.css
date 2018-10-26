@@ -1,0 +1,22 @@
+.statusContainer {
+  width: 100%;
+  background: #fff;
+  border: 1px solid #e0e0e0;
+  box-shadow: 0 3px 20px 0 rgba(0,0,0,.23);
+}
+.status{
+  padding: 15px 15px 0;
+}
+.commentContainer {
+  padding: 10px;
+}
+.commentBox {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #f2f2f2;
+}
+.submitBtn {
+  width: 150px;
+  margin: 10px;
+  height: 40px;
+}
